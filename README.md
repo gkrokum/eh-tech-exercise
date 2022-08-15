@@ -1,6 +1,6 @@
 # eh-tech-exercise
 
-Kubernetes technical exercise for Everyly Health
+Kubernetes technical exercise for Everly Health
 
 
 Install minikube:
