@@ -38,4 +38,7 @@ Add IP address entry to /etc/hosts file:
 Run curl against hello-world.info hostname to verify app is working:
 	curl hello-world.info
 
+Check log file for app pod:
+	kubectl logs -f web-6bf786c76b-jdp5h
+
 Curl output is in curl-output.txt and log output from app pod is in log-output.txt
