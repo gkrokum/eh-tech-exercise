@@ -1,0 +1,8 @@
+[gkrokum@localhost everly-k8s]$ curl hello-world.info
+Hello, world!
+Version: 1.0.0
+Hostname: web-6bf786c76b-jdp5h
+[gkrokum@localhost everly-k8s]$ curl hello-world.info
+Hello, world!
+Version: 1.0.0
+Hostname: web-6bf786c76b-jdp5h

@@ -1,0 +1,17 @@
+2022/08/15 06:24:28 Server listening on port 8080
+2022/08/15 06:27:23 Serving request: /
+2022/08/15 06:27:23 Serving request: /favicon.ico
+2022/08/15 06:34:05 Serving request: /
+2022/08/15 06:36:10 Serving request: /
+2022/08/15 06:37:04 Serving request: /
+2022/08/15 06:41:17 Serving request: /
+2022/08/15 06:41:17 Serving request: /favicon.ico
+2022/08/15 06:41:18 Serving request: /
+2022/08/15 06:53:23 Serving request: /
+2022/08/15 06:53:25 Serving request: /
+2022/08/15 06:53:26 Serving request: /
+2022/08/15 06:53:27 Serving request: /
+2022/08/15 06:53:47 Serving request: /
+2022/08/15 06:53:57 Serving request: /
+2022/08/15 06:54:42 Serving request: /
+2022/08/15 06:54:43 Serving request: /
